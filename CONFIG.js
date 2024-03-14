@@ -5,5 +5,5 @@ const CONFIGDATA = {
   buttonNo: "Không! Còn lâu nhé.",
   titleModar: "Cảm ơn chị",
   descriptionModar:
-    'Cảm ơn chị đã cho em một cơ hội để em có thể ở bên cạnh, che chở và bảo vệ chị. ^^ </br> Em biết em không được đẹp trai, cũng chẳng lắm tài nhưng em có </br>một trái tim chân thành. Chị chính là cả thế giới của em. </br> Love you <3 "',
+    'Cảm ơn chị đã cho em một cơ hội để em có thể ở bên cạnh, che chở và bảo vệ chị. ^^ </br> Em biết em không được đẹp trai, cũng chẳng lắm tài nhưng em có </br> một trái tim chân thành. Chị chính là cả thế giới của em. </br> Love you <3 "',
 };
